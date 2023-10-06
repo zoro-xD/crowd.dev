@@ -121,9 +121,9 @@ crowd.dev is still in beta and we ship new features every week. To stay in the l
 
 There are many ways you can contribute to crowd.dev! Here are a few options:
 
-- Star this repo
-- Create issues every time you feel something is missing or goes wrong
-- Upvote issues with 👍 reaction so we know what's the demand for particular issue to prioritize it within roadmap
+- Star this repo.
+- Create issues every time you feel something is missing or goes wrong.
+- Upvote issues with 👍 reaction so we know what's the demand for particular issue to prioritize it within roadmap.
 
 If you would like to contribute to the development of the project, please refer to our [Contributing guide](https://github.com/CrowdDotDev/crowd.dev/blob/main/CONTRIBUTING.md).
 
